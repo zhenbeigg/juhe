@@ -1,0 +1,21 @@
+{
+    "name": "eykj/juhe",
+    "description": "一一科技聚合组件",
+    "license": "MIT",
+    "keywords": [
+        "eykj",
+        "juhe"
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Eykj\\Juhe\\": "src/"
+        },
+        "files": [
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
